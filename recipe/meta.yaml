@@ -40,7 +40,7 @@ requirements:
     - make                 # [unix]
     - posix                # [win]
   host:
-    - libnsl  # [linux]
+    # - libnsl  # [linux]
 
 test:
   # downstreams:
